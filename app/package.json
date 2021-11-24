@@ -1,7 +1,7 @@
 {
-  "name": "freecat-electron-adapted",
-  "version": "21.11.2160",
-  "description": "Freecat Adapted Electron Application",
+  "name": "simplicitytodo-stable",
+  "version": "21.11.2420",
+  "description": "SimplicityToDo Electron Application",
   "main": "main.js",
   "scripts": {
     "start": "electron ."
@@ -10,7 +10,7 @@
   "keywords": [
     "Electron",
     "Browser",
-    "Internet"
+    "Productivity"
   ],
   "author": "JaydenDev/Community",
   "license": "MIT",
