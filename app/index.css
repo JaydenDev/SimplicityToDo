@@ -1,0 +1,22 @@
+body {
+	background-color: black;
+}
+
+* {
+	color: white;
+	list-style: none;
+	padding: 5pt;
+}
+
+input {
+	border: none;
+	border-radius: 5pt;
+	background-color: white;
+	color: black;
+}
+
+p {
+	background-color: white;
+	color: black;
+	border-radius: 5pt;
+}
